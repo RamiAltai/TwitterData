@@ -1,4 +1,4 @@
-# TwitterData
+# COVID-19 UAE Twitter Data
  
 This repository includes UAE Covid-19 data collected on an hourly-basis. The languages covered are Arabic and English. Tweets are orginised based on language, then date and time. Each of the CSV files under each of the branches/languages represents data collected at single hour, and involves the following columns (NO., Tweet Text, Tweet ID, Date, Likes, Retweets, and Place). 
 
