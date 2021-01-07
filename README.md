@@ -31,6 +31,6 @@ English : corona, coronavirus, COVID, Covid, Corona
 
 Please read through the README and the closed issues to see if your question has already been addressed first. 
 
-If you have technical questions about the data collection, please contact Emily Chen at **1071991[at]students[dot]adu[dot]ac[dot]ae**.
+If you have technical questions about the data collection, please contact Rami Altai at **1071991[at]students[dot]adu[dot]ac[dot]ae**.
 
 If you have any further questions about this dataset please contact Dr. Heba Ismail at **Heba[dot]Ismail[at]adu[dot]ac[dot]ae**.
