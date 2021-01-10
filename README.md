@@ -9,7 +9,7 @@ This repository includes UAE Covid-19 data collected on an hourly basis. The lan
 * Retweets: number of times the Tweet got retweeted
 * Place: includes the full geotag provided by Twitter in JSON format. 
 
-Spatiotemporal Analytics conducted on the data is available on: [UAE-SentiMeter](https://www.adu.ac.ae/UAE_Sentimeter)
+Spatiotemporal Analytics conducted on the data is available on: [UAE-SentiMeter](https://www.adu.ac.ae/UAE-Sentimeter)
 
 All personal identifiable information have been removed as per Twitter's Developer [Agreement and Policy](https://developer.twitter.com/en/developer-terms/agreement-and-policy)
 
