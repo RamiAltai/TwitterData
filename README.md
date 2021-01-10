@@ -1,6 +1,6 @@
 # COVID-19 UAE Twitter Data
  
-This repository includes UAE Covid-19 data collected on an hourly basis. The languages targeted in our analysis, so far, are Arabic and English. We categorize Tweets based on language into two folders. These are: arTweets and enTweets. Inside each folder, hourly data is organized into files formatted using comma delimited format (i.e., *.CSV) with the following naming convention: year-month--hour_minutes à [YYYY-MM-DD--HH_MM.csv]. Each file contains the following columns:
+This repository includes UAE Covid-19 data collected on an hourly basis. The languages targeted in our analysis, so far, are Arabic and English. We categorize Tweets based on language into two folders. These are: arTweets and enTweets. Inside each folder, hourly data is organized into files formatted using comma delimited format (i.e., *.CSV) with the following naming convention: year-month--hour_minutes --> [YYYY-MM-DD--HH_MM.csv]. Each file contains the following columns:
 * NO.: Developer-defined serial number.
 * Tweet Text: COVID-19, UAE-specific Twitter chatter data filtered from URLs, Hashtags, and Emojis 
 * Tweet ID: Twitter unique Tweet ID
@@ -9,8 +9,6 @@ This repository includes UAE Covid-19 data collected on an hourly basis. The lan
 * Retweets: number of times the Tweet got retweeted
 * Place: includes the full geotag provided by Twitter in JSON format. 
 
-All personal identifiable information has been removed as per Twitter's Developer Agreement and Policy
-The data is released for non-commercial research use.
 Spatiotemporal Analytics conducted on the data is available on: [UAE-SentiMeter](https://www.adu.ac.ae/UAE_Sentimeter)
 
 All personal identifiable information have been removed as per Twitter's Developer [Agreement and Policy](https://developer.twitter.com/en/developer-terms/agreement-and-policy)
