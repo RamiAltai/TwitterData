@@ -1,6 +1,6 @@
 # COVID-19 UAE Twitter Data
  
-This repository includes UAE Covid-19 data collected on an hourly basis. The languages targeted in our analysis, so far, are Arabic and English. We categorize Tweets based on language into two folders. These are: arTweets and enTweets. Inside each folder, hourly data is organized into files formatted using comma delimited format (i.e., *.CSV) with the following naming convention: year-month--hour_minutes --> [YYYY-MM-DD--HH_MM.csv]. Each file contains the following columns:
+This repository includes UAE Covid-19 data collected on an hourly basis. The languages targeted in our analysis, so far, are Arabic and English. We categorize Tweets based on language into two folders. These are: arTweets and enTweets. Inside each folder, hourly data is organized into files formatted using comma delimited format (i.e., *.CSV) with the following naming convention: year-month--hour --> [YYYY-MM-DD--HH.csv]. Each file contains the following columns:
 * NO.: Developer-defined serial number.
 * Tweet Text: COVID-19, UAE-specific Twitter chatter data filtered from URLs, Hashtags, and Emojis 
 * Tweet ID: Twitter unique Tweet ID
@@ -19,7 +19,7 @@ The data is released for non-commercial research use.
 
 The repository is organized as follows:
 * The "arTweets" and "enTweets" directories include the CSV files of the Arabic and English tweets respectively.
-* In each directory a set of CSV files can be found, and the files are named using the following conversion [YYYY-MM-DD--HH_MM.csv]
+* In each directory a set of CSV files can be found, and the files are named using the following conversion [YYYY-MM-DD--HH.csv]
 
 ## Data Availability
 
